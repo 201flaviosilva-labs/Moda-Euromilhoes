@@ -1,0 +1,16 @@
+{
+  "name": "moda-euromilhoes",
+  "version": "1.0.0",
+  "description": "Moda Euromilhoes",
+  "main": "index.js",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "author": "Flávio Silva",
+  "license": "MIT"
+}
