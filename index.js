@@ -10,8 +10,8 @@ console.clear();
 main();
 function main() {
 	criarNumeros();
-	chavesFalsas();
-	// obterInformacao("https://nunofcguerreiro.com/api-euromillions-json?result=all");
+	// chavesFalsas();
+	obterInformacao("https://nunofcguerreiro.com/api-euromillions-json?result=all");
 }
 
 function chavesFalsas() {
